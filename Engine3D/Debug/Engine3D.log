@@ -1,0 +1,8 @@
+﻿  Engine3D.cpp
+F:\Code\Engine3D\Engine3D\Engine3D.cpp(296): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Code\Engine3D\Engine3D\Engine3D.cpp(295): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Code\Engine3D\Engine3D\Engine3D.cpp(294): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Code\Engine3D\Engine3D\Engine3D.cpp(301): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Code\Engine3D\Engine3D\Engine3D.cpp(300): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Code\Engine3D\Engine3D\Engine3D.cpp(299): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Engine3D.vcxproj -> F:\Code\Engine3D\Debug\Engine3D.exe
